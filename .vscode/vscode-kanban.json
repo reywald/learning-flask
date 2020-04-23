@@ -19,7 +19,27 @@
       "title": "Setup Flask Environment"
     }
   ],
-  "in-progress": [],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "Samuel Agbarakwe"
+      },
+      "category": "Programming Flask",
+      "creation_time": "2020-04-23T17:57:35.667Z",
+      "description": {
+        "content": "Create and link two pages - home and about",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "Create a home page\nUse templates in the page\nAdd a route\nUse static files\nSave to github.com\nDeploy to heroku.com\nCreate an about page",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "prio": 1,
+      "references": [],
+      "title": "Create a home and about page"
+    }
+  ],
   "testing": [],
   "todo": []
 }
