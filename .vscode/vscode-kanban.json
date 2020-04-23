@@ -1,0 +1,25 @@
+{
+  "done": [
+    {
+      "assignedTo": {
+        "name": "Samuel Agbarakwe"
+      },
+      "category": "Programming Flask",
+      "creation_time": "2020-04-22T21:15:45.529Z",
+      "description": {
+        "content": "Install Flask and its dependencies",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "Create directory\nInitialize git repository\nCreate virtual environment\nInstall Python\nInstall Flask\nInstall and configure PostgreSQL or MariaDB or MySQL\nSet up Heroku and its CLI",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "Setup Flask Environment"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "todo": []
+}

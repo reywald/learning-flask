@@ -1,0 +1,12 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "postgresql login",
+            "type": "shell",
+            "command": "C:/Users/iagbarakwe/Downloads/Programming/Softwares/DBs/pgsql/bin/psql -U postgres -W"
+        }
+    ]
+}
